@@ -1,1 +1,1 @@
-# BitVaultSecureSDK
+# BitVault Secure SDK
