@@ -1,0 +1,25 @@
+# ninja log v5
+1	124	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	394d254cb752fb91
+124	194	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libsum-var.so	8dc1821069b2e752
+0	320	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	d46a20fd76992600
+321	1790	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	4d2a5d7f17d398a3
+1	225	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	394d254cb752fb91
+225	671	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libsum-var.so	8dc1821069b2e752
+3	1102	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	d46a20fd76992600
+1103	1481	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	4d2a5d7f17d398a3
+1	145	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	394d254cb752fb91
+145	713	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libsum-var.so	8dc1821069b2e752
+4	311	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	d46a20fd76992600
+311	486	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	4d2a5d7f17d398a3
+1	72	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	394d254cb752fb91
+73	1614	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libsum-var.so	8dc1821069b2e752
+2	214	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	d46a20fd76992600
+214	2702	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	4d2a5d7f17d398a3
+1	85	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	394d254cb752fb91
+85	425	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libsum-var.so	8dc1821069b2e752
+3	238	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	d46a20fd76992600
+238	359	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	4d2a5d7f17d398a3
+1	80	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	394d254cb752fb91
+81	520	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libsum-var.so	8dc1821069b2e752
+4	245	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	d46a20fd76992600
+245	363	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	4d2a5d7f17d398a3

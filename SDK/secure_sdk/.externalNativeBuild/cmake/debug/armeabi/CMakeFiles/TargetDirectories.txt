@@ -1,0 +1,4 @@
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/sum-var.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/native-lib.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,56 @@
+
+{
+	"buildFiles" : [ "D:/SDKDemo/secure_sdk/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"D:\\Android\\sdk1\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\SDKDemo\\secure_sdk\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "D:\\Android\\sdk1\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\SDKDemo\\secure_sdk\\.externalNativeBuild\\cmake\\release\\x86_64 --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=D:/Android/sdk1/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk1/ndk-bundle/platforms/android-23/arch-x86_64  -Dnative_lib_EXPORTS -isystem D:\\Android\\sdk1\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Android\\sdk1\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\include -isystem D:\\Android\\sdk1\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/SDKDemo/secure_sdk/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "D:/SDKDemo/secure_sdk/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so",
+			"toolchain" : "4255010261"
+		},
+		"sum-var-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "sum-var",
+			"buildCommand" : "D:\\Android\\sdk1\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\SDKDemo\\secure_sdk\\.externalNativeBuild\\cmake\\release\\x86_64 --target sum-var",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android --gcc-toolchain=D:/Android/sdk1/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk1/ndk-bundle/platforms/android-23/arch-x86_64  -Dsum_var_EXPORTS -isystem D:\\Android\\sdk1\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Android\\sdk1\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\include -isystem D:\\Android\\sdk1\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/SDKDemo/secure_sdk/src/main/cpp/sum-var.cpp",
+					"workingDirectory" : "D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "D:/SDKDemo/secure_sdk/build/intermediates/cmake/release/obj/x86_64/libsum-var.so",
+			"toolchain" : "4255010261"
+		}
+	},
+	"toolchains" : 
+	{
+		"4255010261" : 
+		{
+			"cCompilerExecutable" : "D:/Android/sdk1/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Android/sdk1/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

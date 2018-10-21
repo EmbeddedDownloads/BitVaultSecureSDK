@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_20"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/recipientAddress"
+            android:layout_width="match_parent"
+            android:maxLength="45"
+            android:layout_height="@dimen/edittext_height"
+            android:hint="Enter or Scan Recipient Address"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/bitcoinsAmount"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_height"
+            android:layout_marginTop="@dimen/margin_10"
+            android:hint="0.02 Bicoins"
+            android:maxLength="8"
+            android:singleLine="true" />
+
+        <Spinner
+            android:id="@+id/walletsSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10"></Spinner>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="@dimen/margin_45"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnScan"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Scan Receiver Address" />
+
+            <Button
+                android:id="@+id/btnSendTran"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Send Bitcoins" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/responseTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_30"
+            android:text="Response Message"
+            android:textSize="@dimen/text_size_16" />
+
+    </LinearLayout>
+
+</LinearLayout>

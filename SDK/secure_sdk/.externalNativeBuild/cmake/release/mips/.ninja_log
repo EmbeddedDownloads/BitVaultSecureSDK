@@ -1,0 +1,25 @@
+# ninja log v5
+0	100	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	27feb6d7ab46d89
+100	149	0	../../../../build/intermediates/cmake/release/obj/mips/libsum-var.so	d878bba898f00943
+0	259	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	832369e236de8804
+260	470	0	../../../../build/intermediates/cmake/release/obj/mips/libnative-lib.so	2ed9a2b900302e56
+0	946	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	27feb6d7ab46d89
+946	1211	0	../../../../build/intermediates/cmake/release/obj/mips/libsum-var.so	d878bba898f00943
+2	979	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	832369e236de8804
+979	1681	0	../../../../build/intermediates/cmake/release/obj/mips/libnative-lib.so	2ed9a2b900302e56
+1	179	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	27feb6d7ab46d89
+179	224	0	../../../../build/intermediates/cmake/release/obj/mips/libsum-var.so	d878bba898f00943
+2	826	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	832369e236de8804
+826	1151	0	../../../../build/intermediates/cmake/release/obj/mips/libnative-lib.so	2ed9a2b900302e56
+1	67	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	27feb6d7ab46d89
+67	104	0	../../../../build/intermediates/cmake/release/obj/mips/libsum-var.so	d878bba898f00943
+3	227	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	832369e236de8804
+227	387	0	../../../../build/intermediates/cmake/release/obj/mips/libnative-lib.so	2ed9a2b900302e56
+1	79	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	27feb6d7ab46d89
+79	126	0	../../../../build/intermediates/cmake/release/obj/mips/libsum-var.so	d878bba898f00943
+3	228	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	832369e236de8804
+228	1362	0	../../../../build/intermediates/cmake/release/obj/mips/libnative-lib.so	2ed9a2b900302e56
+1	76	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	27feb6d7ab46d89
+77	120	0	../../../../build/intermediates/cmake/release/obj/mips/libsum-var.so	d878bba898f00943
+2	236	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	832369e236de8804
+236	478	0	../../../../build/intermediates/cmake/release/obj/mips/libnative-lib.so	2ed9a2b900302e56

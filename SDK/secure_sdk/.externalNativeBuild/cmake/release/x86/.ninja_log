@@ -1,0 +1,25 @@
+# ninja log v5
+0	101	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	5e608df2b207dfb3
+102	183	0	../../../../build/intermediates/cmake/release/obj/x86/libsum-var.so	cd2e156aa2b1842d
+1	295	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f36758917a57c01a
+296	429	0	../../../../build/intermediates/cmake/release/obj/x86/libnative-lib.so	9a12dd0e32ac24d0
+1	164	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	5e608df2b207dfb3
+164	700	0	../../../../build/intermediates/cmake/release/obj/x86/libsum-var.so	cd2e156aa2b1842d
+2	821	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f36758917a57c01a
+821	982	0	../../../../build/intermediates/cmake/release/obj/x86/libnative-lib.so	9a12dd0e32ac24d0
+1	170	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	5e608df2b207dfb3
+170	969	0	../../../../build/intermediates/cmake/release/obj/x86/libsum-var.so	cd2e156aa2b1842d
+2	255	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f36758917a57c01a
+255	368	0	../../../../build/intermediates/cmake/release/obj/x86/libnative-lib.so	9a12dd0e32ac24d0
+1	92	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	5e608df2b207dfb3
+92	401	0	../../../../build/intermediates/cmake/release/obj/x86/libsum-var.so	cd2e156aa2b1842d
+2	233	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f36758917a57c01a
+233	334	0	../../../../build/intermediates/cmake/release/obj/x86/libnative-lib.so	9a12dd0e32ac24d0
+1	88	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	5e608df2b207dfb3
+88	201	0	../../../../build/intermediates/cmake/release/obj/x86/libsum-var.so	cd2e156aa2b1842d
+4	255	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f36758917a57c01a
+255	364	0	../../../../build/intermediates/cmake/release/obj/x86/libnative-lib.so	9a12dd0e32ac24d0
+1	82	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	5e608df2b207dfb3
+82	968	0	../../../../build/intermediates/cmake/release/obj/x86/libsum-var.so	cd2e156aa2b1842d
+3	233	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f36758917a57c01a
+233	350	0	../../../../build/intermediates/cmake/release/obj/x86/libnative-lib.so	9a12dd0e32ac24d0

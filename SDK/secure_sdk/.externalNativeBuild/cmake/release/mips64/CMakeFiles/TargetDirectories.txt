@@ -1,0 +1,4 @@
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/release/mips64/CMakeFiles/sum-var.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/release/mips64/CMakeFiles/native-lib.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir

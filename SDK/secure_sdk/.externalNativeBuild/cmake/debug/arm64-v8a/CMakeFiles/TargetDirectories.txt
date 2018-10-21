@@ -1,0 +1,4 @@
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/sum-var.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/SDKDemo/secure_sdk/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

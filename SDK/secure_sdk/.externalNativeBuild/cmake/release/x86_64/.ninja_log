@@ -1,0 +1,25 @@
+# ninja log v5
+1	104	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	653e292edc93d63f
+105	194	0	../../../../build/intermediates/cmake/release/obj/x86_64/libsum-var.so	4033e0255bcc7266
+1	307	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3758f22dbd5ba374
+308	472	0	../../../../build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	5be089a3546827fc
+1	1195	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	653e292edc93d63f
+1195	2021	0	../../../../build/intermediates/cmake/release/obj/x86_64/libsum-var.so	4033e0255bcc7266
+3	1610	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3758f22dbd5ba374
+1610	1767	0	../../../../build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	5be089a3546827fc
+1	500	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	653e292edc93d63f
+500	858	0	../../../../build/intermediates/cmake/release/obj/x86_64/libsum-var.so	4033e0255bcc7266
+3	598	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3758f22dbd5ba374
+598	743	0	../../../../build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	5be089a3546827fc
+1	74	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	653e292edc93d63f
+74	227	0	../../../../build/intermediates/cmake/release/obj/x86_64/libsum-var.so	4033e0255bcc7266
+2	232	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3758f22dbd5ba374
+232	372	0	../../../../build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	5be089a3546827fc
+1	86	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	653e292edc93d63f
+86	215	0	../../../../build/intermediates/cmake/release/obj/x86_64/libsum-var.so	4033e0255bcc7266
+2	268	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3758f22dbd5ba374
+269	427	0	../../../../build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	5be089a3546827fc
+1	87	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	653e292edc93d63f
+87	993	0	../../../../build/intermediates/cmake/release/obj/x86_64/libsum-var.so	4033e0255bcc7266
+2	248	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3758f22dbd5ba374
+248	381	0	../../../../build/intermediates/cmake/release/obj/x86_64/libnative-lib.so	5be089a3546827fc

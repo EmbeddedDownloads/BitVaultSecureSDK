@@ -1,0 +1,25 @@
+# ninja log v5
+0	114	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	8d5b40b228a30181
+114	208	0	../../../../build/intermediates/cmake/release/obj/armeabi/libsum-var.so	abb3ee0e79fca544
+0	311	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	72c626f253f0674b
+312	491	0	../../../../build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	f2ba588677e7d5d7
+1	94	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	8d5b40b228a30181
+94	484	0	../../../../build/intermediates/cmake/release/obj/armeabi/libsum-var.so	abb3ee0e79fca544
+2	354	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	72c626f253f0674b
+354	511	0	../../../../build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	f2ba588677e7d5d7
+1	106	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	8d5b40b228a30181
+106	323	0	../../../../build/intermediates/cmake/release/obj/armeabi/libsum-var.so	abb3ee0e79fca544
+2	285	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	72c626f253f0674b
+285	423	0	../../../../build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	f2ba588677e7d5d7
+1	119	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	8d5b40b228a30181
+119	297	0	../../../../build/intermediates/cmake/release/obj/armeabi/libsum-var.so	abb3ee0e79fca544
+2	267	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	72c626f253f0674b
+268	406	0	../../../../build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	f2ba588677e7d5d7
+2	121	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	8d5b40b228a30181
+122	349	0	../../../../build/intermediates/cmake/release/obj/armeabi/libsum-var.so	abb3ee0e79fca544
+3	284	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	72c626f253f0674b
+284	437	0	../../../../build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	f2ba588677e7d5d7
+1	98	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	8d5b40b228a30181
+98	171	0	../../../../build/intermediates/cmake/release/obj/armeabi/libsum-var.so	abb3ee0e79fca544
+2	265	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	72c626f253f0674b
+265	399	0	../../../../build/intermediates/cmake/release/obj/armeabi/libnative-lib.so	f2ba588677e7d5d7

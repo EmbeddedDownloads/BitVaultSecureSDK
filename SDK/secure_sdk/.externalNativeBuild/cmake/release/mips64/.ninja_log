@@ -1,0 +1,25 @@
+# ninja log v5
+0	115	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	aac80cbf85f92313
+115	176	0	../../../../build/intermediates/cmake/release/obj/mips64/libsum-var.so	33da745ae2b28054
+1	313	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3ba5fcba7d46c62d
+314	582	0	../../../../build/intermediates/cmake/release/obj/mips64/libnative-lib.so	c16897957fc8b8d3
+48	4450	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	aac80cbf85f92313
+4450	4889	0	../../../../build/intermediates/cmake/release/obj/mips64/libsum-var.so	33da745ae2b28054
+3	3423	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3ba5fcba7d46c62d
+3423	6234	0	../../../../build/intermediates/cmake/release/obj/mips64/libnative-lib.so	c16897957fc8b8d3
+2	1002	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	aac80cbf85f92313
+1002	1217	0	../../../../build/intermediates/cmake/release/obj/mips64/libsum-var.so	33da745ae2b28054
+3	637	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3ba5fcba7d46c62d
+637	898	0	../../../../build/intermediates/cmake/release/obj/mips64/libnative-lib.so	c16897957fc8b8d3
+1	827	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	aac80cbf85f92313
+827	921	0	../../../../build/intermediates/cmake/release/obj/mips64/libsum-var.so	33da745ae2b28054
+2	280	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3ba5fcba7d46c62d
+280	511	0	../../../../build/intermediates/cmake/release/obj/mips64/libnative-lib.so	c16897957fc8b8d3
+1	285	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	aac80cbf85f92313
+285	388	0	../../../../build/intermediates/cmake/release/obj/mips64/libsum-var.so	33da745ae2b28054
+2	328	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3ba5fcba7d46c62d
+328	580	0	../../../../build/intermediates/cmake/release/obj/mips64/libnative-lib.so	c16897957fc8b8d3
+1	265	0	CMakeFiles/sum-var.dir/src/main/cpp/sum-var.cpp.o	aac80cbf85f92313
+265	353	0	../../../../build/intermediates/cmake/release/obj/mips64/libsum-var.so	33da745ae2b28054
+3	346	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	3ba5fcba7d46c62d
+347	942	0	../../../../build/intermediates/cmake/release/obj/mips64/libnative-lib.so	c16897957fc8b8d3
